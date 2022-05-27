@@ -1,0 +1,39 @@
+#carousel{
+    border-radius: 25%;
+}
+
+.img1{
+    border-radius: 5px;
+}
+#link{
+    margin-top: 20px;
+}
+#lk::after{
+    content: "";
+    display: block;
+    padding-top: 4px;
+    width: 100px;
+    border-radius: 4px;
+    background-color: #076bcf;
+}
+#card{
+    margin-top: 20px;
+    background-color: #fff;
+    display: block;
+    max-width: 150px;
+    
+}
+.link-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.class{
+   text-align: center;
+}
+.aicte{
+    align-items: center;
+}
+.news{
+    margin-top: 10px;
+}

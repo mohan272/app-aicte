@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    max-height: 53px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px;
+}
+#items {
+    display: flex;
+    flex-direction: row;
+}
